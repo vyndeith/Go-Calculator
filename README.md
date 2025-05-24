@@ -26,8 +26,8 @@ A simple, robust command-line calculator built in Go that performs basic arithme
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/go-calculator.git
-   cd go-calculator
+   git clone https://github.com/vyndeith/Go-Calculator.git
+   cd Go-Calculator
    ```
 
 2. **Run the calculator**:
